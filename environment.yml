@@ -1,0 +1,14 @@
+name: prst-7
+channels:
+  - conda-forge
+dependencies:
+  - nltk
+  - pandas
+  - numpy
+  - matplotlib
+  - re
+  - string
+  - pydata
+  - plotnine
+  - worldcloud
+  - IPython
