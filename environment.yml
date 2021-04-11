@@ -6,6 +6,4 @@ dependencies:
   - pandas
   - numpy
   - matplotlib
-  - string
   - plotnine
-  - worldcloud
